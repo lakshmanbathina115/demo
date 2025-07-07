@@ -1,4 +1,5 @@
 import json
+import pandas as pd
 
 print("Loading JSON...")
 
@@ -53,7 +54,14 @@ for i, sku in enumerate(skus, start=1):
 
 print("Saving transformed JSON...")
 
+# Save JSON
 with open("/Users/lakshmanbathina/Desktop/demo/transformed_files/transformed_sku.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print("Done! Output saved to transformed_sku.json")
+print("Saving CSV...")
+
+# Save CSV
+df = pd.json_normalize(output)
+df.to_csv("/Users/lakshmanbathina/Desktop/demo/transformed_files/transformed_sku.csv", index=False)
+
+print("All done! Files saved.")
