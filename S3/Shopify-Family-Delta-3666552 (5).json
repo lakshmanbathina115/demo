@@ -1,0 +1,4511 @@
+{
+  "Root": {
+    "dataModel": {
+      "repo": [
+        { "name": "DAMLink", "profile": "DAMLink" },
+        {
+          "name": "Font_Family_Group_Production",
+          "profile": "Font Family Group"
+        },
+        { "name": "Font_Family_Production", "profile": "Font Family" },
+        { "name": "Trademark_Production", "profile": "Trademark" },
+        {
+          "name": "Master_Font_Foundry_Production",
+          "profile": "Master Font Foundry"
+        },
+        { "name": "Font_Style_Production", "profile": "Font Style" },
+        { "name": "SKU_Release_Production", "profile": "SKU Release" }
+      ]
+    },
+    "Font_Family": [
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000HEISEI MIN500000053000001000000000010000000000",
+        "Sort Order": "Heisei Mincho",
+        "PAS Legacy Id": "655681",
+        "Trademark Text ID": "18",
+        "Vendor ID": "3242",
+        "Vendor Name": [
+          { "lang": "en", "content": "Adobe" },
+          { "lang": "ja", "content": "Everest 12345" }
+        ],
+        "Family ID": "7921",
+        "Family Url Key": "adobe/heisei-mincho",
+        "Name": [
+          { "lang": "ja", "content": "Everest 12345678" },
+          { "lang": "en", "content": "Heisei Mincho" }
+        ],
+        "Unique Name": "heisei-mincho",
+        "Active": "Yes",
+        "Debut Date": "08/10/2010",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "33138",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": "12345" }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": "Test JA Test12345" }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655683",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MIN500000053000001000000000008000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 Std W3 Test sachin" },
+              { "lang": "en", "content": "Heisei Mincho W3" }
+            ],
+            "Render MD5": "f09f7a4e085c38a6f627fd7c190550cf",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "33135",
+            "Style Url Key": "adobe/heisei-mincho/w3",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "300",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "No",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "f09f7a4e085c38a6f627fd7c190550cf",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655684"
+              },
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "300",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "f09f7a4e085c38a6f627fd7c190550cf",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "930875661"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655686",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MIN500000053000001000000000010000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 Std W5" },
+              { "lang": "en", "content": "Heisei Mincho W5" }
+            ],
+            "Render MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "005",
+            "Style ID": "33138",
+            "Style Url Key": "adobe/heisei-mincho/w5",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "500",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "No",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655687"
+              },
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "500",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "930875662"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655689",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MIN500000053000001000000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 Std W7" },
+              { "lang": "en", "content": "Heisei Mincho W7" }
+            ],
+            "Render MD5": "4548a2cdf17a3c3d02050bcaada8a783",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "007",
+            "Style ID": "33141",
+            "Style Url Key": "adobe/heisei-mincho/w7",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "700",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "No",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "4548a2cdf17a3c3d02050bcaada8a783",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655690"
+              },
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "700",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "4548a2cdf17a3c3d02050bcaada8a783",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "930875663"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655692",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MIN500000053000001000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 Std W9" },
+              { "lang": "en", "content": "Heisei Mincho W9" }
+            ],
+            "Render MD5": "fa4f09d465c5087460d95d4e151d84ce",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "009",
+            "Style ID": "33144",
+            "Style Url Key": "adobe/heisei-mincho/w9",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "900",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "No",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "fa4f09d465c5087460d95d4e151d84ce",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655693"
+              },
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "900",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "fa4f09d465c5087460d95d4e151d84ce",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "930875664"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "655686",
+            "Style ID": "33138",
+            "Style Url Key": "adobe/heisei-mincho/w5",
+            "Unique Name": "w5",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 Std W5" },
+              { "lang": "en", "content": "Heisei Mincho W5" }
+            ],
+            "Render MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+            "Render String": " ",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "500",
+                "Active": "No",
+                "File ID": "35333",
+                "File MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              },
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "500",
+                "Active": "Yes",
+                "File ID": "875662",
+                "File MD5": "913ae3f49c05fac02a14b15ad0df51e5",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "Trademark": [
+          {
+            "repo": "Trademark_Production",
+            "Registered Text": [
+              {
+                "lang": "en",
+                "content": "is a registered trademark of Typonine."
+              }
+            ],
+            "Trademark ID": "18",
+            "Trademark Text": [
+              { "lang": "en", "content": "is a trademark of Typonine." }
+            ]
+          }
+        ],
+        "Font_Family_Group": [{ "Family Group ID": "238", "Name": "Heisei™" }],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "06/10/2021",
+            "MTF Derelease Date": "02/19/2025",
+            "MTF Release Date": "03/31/2021",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000HEISEI MAR500000053000002054000000012000000000",
+        "Sort Order": "Heisei Maru Gothic",
+        "PAS Legacy Id": "655731",
+        "Trademark Text ID": "18",
+        "Vendor ID": "3242",
+        "Vendor Name": [
+          { "lang": "en", "content": "Adobe" },
+          { "lang": "ja", "content": 12345 }
+        ],
+        "Family ID": "7923",
+        "Family Url Key": "adobe/heisei-maru-gothic",
+        "Name": [
+          { "lang": "ja", "content": "平成丸ゴシック" },
+          { "lang": "en", "content": "Heisei Maru Gothic" }
+        ],
+        "Unique Name": "heisei-maru-gothic",
+        "Active": "Yes",
+        "Debut Date": "08/10/2010",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "33129",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "Adobe" }],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655676",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MAR500000053000002054000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成丸ゴシック W4" },
+              { "lang": "en", "content": "Heisei Maru Gothic W4" }
+            ],
+            "Render MD5": "74ab0dd2a75a01a8b95b538906abd3e2",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "004",
+            "Style ID": "33129",
+            "Style Url Key": "adobe/heisei-maru-gothic/w4",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "74ab0dd2a75a01a8b95b538906abd3e2",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655677"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655679",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI MAR500000053000002054000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成丸ゴシック W8" },
+              { "lang": "en", "content": "Heisei Maru Gothic W8" }
+            ],
+            "Render MD5": "fdcf28fe1d6b9a969426215d6068b3b4",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "008",
+            "Style ID": "33132",
+            "Style Url Key": "adobe/heisei-maru-gothic/w8",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "800",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "fdcf28fe1d6b9a969426215d6068b3b4",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655680"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "655676",
+            "Style ID": "33129",
+            "Style Url Key": "adobe/heisei-maru-gothic/w4",
+            "Unique Name": "w4",
+            "Name": [
+              { "lang": "ja", "content": "平成丸ゴシック W4" },
+              { "lang": "en", "content": "Heisei Maru Gothic W4" }
+            ],
+            "Render MD5": "74ab0dd2a75a01a8b95b538906abd3e2",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "36559",
+                "File MD5": "74ab0dd2a75a01a8b95b538906abd3e2",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "Trademark": [
+          {
+            "repo": "Trademark_Production",
+            "Registered Text": [
+              {
+                "lang": "en",
+                "content": "is a registered trademark of Typonine."
+              }
+            ],
+            "Trademark ID": "18",
+            "Trademark Text": [
+              { "lang": "en", "content": "is a trademark of Typonine." }
+            ]
+          }
+        ],
+        "Font_Family_Group": [{ "Family Group ID": "238", "Name": "Heisei™" }],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "06/10/2021",
+            "MTF Derelease Date": "02/19/2025",
+            "MTF Release Date": "03/31/2021",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000HEISEI KAK499000053000002000000000000000000000",
+        "Sort Order": "Heisei Kaku Gothic",
+        "PAS Legacy Id": "1070901",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3242",
+        "Vendor Name": [
+          { "lang": "en", "content": "Adobe" },
+          { "lang": "ja", "content": "12345" }
+        ],
+        "Family ID": "7997",
+        "Family Url Key": "UBA SOLUTION",
+        "Name": [
+          { "lang": "ja", "content": "平成角ゴシック" },
+          { "lang": "en", "content": "Heisei Kaku Gothic" }
+        ],
+        "Unique Name": "heisei-kaku-gothic",
+        "Active": "Yes",
+        "Debut Date": "05/12/2013",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "33120",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "Adobe" }],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655664",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI KAK499000053000002000000000008000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック W3" },
+              { "lang": "en", "content": "Heisei Kaku Gothic W3" }
+            ],
+            "Render MD5": "adc7d565a9ece2f9a056a29d97f1d8a2",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "33117",
+            "Style Url Key": "adobe/heisei-kaku-gothic/w3",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "300",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "adc7d565a9ece2f9a056a29d97f1d8a2",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655665"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655667",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI KAK499000053000002000000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック W5" },
+              { "lang": "en", "content": "Heisei Kaku Gothic W5" }
+            ],
+            "Render MD5": "abfa7e57bc51c6a9a3941a711ec9d896",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "005",
+            "Style ID": "33120",
+            "Style Url Key": "adobe/heisei-kaku-gothic/w5",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "500",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "abfa7e57bc51c6a9a3941a711ec9d896",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655668"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655670",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI KAK499000053000002000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック W7" },
+              { "lang": "en", "content": "Heisei Kaku Gothic W7" }
+            ],
+            "Render MD5": "695ba76d0d770eaad9777c9d397e92be",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "007",
+            "Style ID": "33123",
+            "Style Url Key": "adobe/heisei-kaku-gothic/w7",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "700",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "695ba76d0d770eaad9777c9d397e92be",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655671"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "655673",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEI KAK499000053000002000000000024000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック W9" },
+              { "lang": "en", "content": "Heisei Kaku Gothic W9" }
+            ],
+            "Render MD5": "3af070607b9497d0cbbbda5d2d6f6854",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "009",
+            "Style ID": "33126",
+            "Style Url Key": "adobe/heisei-kaku-gothic/w9",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "900",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "3af070607b9497d0cbbbda5d2d6f6854",
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "655674"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "655667",
+            "Style ID": "33120",
+            "Style Url Key": "adobe/heisei-kaku-gothic/w5",
+            "Unique Name": "w5",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック W5" },
+              { "lang": "en", "content": "Heisei Kaku Gothic W5" }
+            ],
+            "Render MD5": "abfa7e57bc51c6a9a3941a711ec9d896",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 2.008;PS 6;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "500",
+                "Active": "Yes",
+                "File ID": "36628",
+                "File MD5": "abfa7e57bc51c6a9a3941a711ec9d896",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp04",
+                  "jp78",
+                  "liga",
+                  "nlck",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "06/10/2021",
+            "MTF Derelease Date": "02/19/2025",
+            "MTF Release Date": "03/31/2021",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000HEISEIKAKU500000000000000054000000012000000000",
+        "Sort Order": " ",
+        "PAS Legacy Id": "6255031",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3242",
+        "Vendor Name": [{ "lang": "en", "content": "Adobe" }],
+        "Family ID": "8055",
+        "Family Url Key": "adobe/heisei-kaku-gothic-n",
+        "Name": [
+          { "lang": "ja", "content": "平成角ゴシック N" },
+          { "lang": "en", "content": "Heisei Kaku Gothic N" }
+        ],
+        "Unique Name": "heisei-kaku-gothic-n",
+        "Active": "Yes",
+        "Debut Date": "09/29/2021",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "33143",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "Adobe" }],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": 12345 }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "6255033",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEIKAKU500000000000000054000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック N W5" },
+              { "lang": "en", "content": "Heisei Kaku Gothic N W5" }
+            ],
+            "Render MD5": "849543b27ccb1a859483822394fdfac3",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "33143",
+            "Style Url Key": "adobe/heisei-kaku-gothic-n/w5",
+            "Designer": [
+              {
+                "repo": "Style_Designer_Production",
+                "Style ID": "33143",
+                "Design Year": " ",
+                "IsDeleted": "No",
+                "Person ID": "6922",
+                "Sort Order": "1",
+                "Type": "Last Designer",
+                "Person_to_Style_Designer_Production": [
+                  {
+                    "Middle Name": " ",
+                    "First Name": "Adobe",
+                    "Last Name": "Design Studio",
+                    "PAS Designer ID": "1130854",
+                    "Person Type": "Type Designer",
+                    "Unique Name": "Adobe_Design_Studio"
+                  }
+                ]
+              }
+            ],
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "500",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "ccmp",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hojo",
+                  "hwid",
+                  "jp78",
+                  "jp83",
+                  "jp90",
+                  "liga",
+                  "nalt",
+                  "nlck",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "ruby",
+                  "sinf",
+                  "subs",
+                  "sups",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "849543b27ccb1a859483822394fdfac3",
+                "NID5 Version Text": "Version 1.001;PS 1;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "6255034"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "6255033",
+            "Style ID": "33143",
+            "Style Url Key": "adobe/heisei-kaku-gothic-n/w5",
+            "Unique Name": "w5",
+            "Name": [
+              { "lang": "ja", "content": "平成角ゴシック N W5" },
+              { "lang": "en", "content": "Heisei Kaku Gothic N W5" }
+            ],
+            "Render MD5": "849543b27ccb1a859483822394fdfac3",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 1.001;PS 1;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "500",
+                "Active": "Yes",
+                "File ID": "35880",
+                "File MD5": "849543b27ccb1a859483822394fdfac3",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "ccmp",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hojo",
+                  "hwid",
+                  "jp78",
+                  "jp83",
+                  "jp90",
+                  "liga",
+                  "nalt",
+                  "nlck",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "ruby",
+                  "sinf",
+                  "subs",
+                  "sups",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "06/22/2021",
+            "MTF Derelease Date": "02/19/2025",
+            "MTF Release Date": "03/31/2021",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000HEISEIMINC500000000000000000000000012000000000",
+        "Sort Order": " ",
+        "PAS Legacy Id": "6255035",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3242",
+        "Vendor Name": [
+          { "lang": "en", "content": "Adobe" },
+          { "lang": "ja", "content": 12345 }
+        ],
+        "Family ID": "8056",
+        "Family Url Key": "adobe/heisei-mincho-n",
+        "Name": [
+          { "lang": "ja", "content": "平成明朝 N" },
+          { "lang": "en", "content": "Heisei Mincho N" }
+        ],
+        "Unique Name": "heisei-mincho-n",
+        "Active": "Yes",
+        "Debut Date": "09/29/2021",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "33146",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "Adobe" }],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "Adobe" },
+              { "lang": "ja", "content": "Test JA() sachin" }
+            ],
+            "Master Foundry ID": "3242",
+            "Unique Name": "adobe"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "6255037",
+            "Render Size": " ",
+            "Sort Key": "5000HEISEIMINC500000000000000000000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 StdN W3" },
+              { "lang": "en", "content": "Heisei Mincho N W3" }
+            ],
+            "Render MD5": "ad67cd5387c914c5bf7c93199df36245",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "33146",
+            "Style Url Key": "adobe/heisei-mincho-n/w3",
+            "Designer": [
+              {
+                "repo": "Style_Designer_Production",
+                "Style ID": "33146",
+                "Design Year": " ",
+                "IsDeleted": "No",
+                "Person ID": "6922",
+                "Sort Order": "1",
+                "Type": "Last Designer",
+                "Person_to_Style_Designer_Production": [
+                  {
+                    "Middle Name": " ",
+                    "First Name": "Adobe",
+                    "Last Name": "Design Studio",
+                    "PAS Designer ID": "1130854",
+                    "Person Type": "Type Designer",
+                    "Unique Name": "Adobe_Design_Studio"
+                  }
+                ]
+              }
+            ],
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "300",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "ccmp",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hojo",
+                  "hwid",
+                  "jp78",
+                  "jp83",
+                  "jp90",
+                  "liga",
+                  "nalt",
+                  "nlck",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "ruby",
+                  "sinf",
+                  "subs",
+                  "sups",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "ad67cd5387c914c5bf7c93199df36245",
+                "NID5 Version Text": "Version 1.001;PS 1;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "PAS Variation ID": "6255038"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "6255037",
+            "Style ID": "33146",
+            "Style Url Key": "adobe/heisei-mincho-n/w3",
+            "Unique Name": "w3",
+            "Name": [
+              { "lang": "ja", "content": "平成明朝 StdN W3" },
+              { "lang": "en", "content": "Heisei Mincho N W3" }
+            ],
+            "Render MD5": "ad67cd5387c914c5bf7c93199df36245",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 1.001;PS 1;hotconv 1.0.70;makeotf.lib2.5.58329",
+                "Slope": "Normal",
+                "Weight": "Normal",
+                "Weight Class": "300",
+                "Active": "Yes",
+                "File ID": "35253",
+                "File MD5": "ad67cd5387c914c5bf7c93199df36245",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "ccmp",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hojo",
+                  "hwid",
+                  "jp78",
+                  "jp83",
+                  "jp90",
+                  "liga",
+                  "nalt",
+                  "nlck",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "ruby",
+                  "sinf",
+                  "subs",
+                  "sups",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "06/22/2021",
+            "MTF Derelease Date": "02/19/2025",
+            "MTF Release Date": "03/31/2021",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000IWATAMARUG518000053000000000000000014000000000",
+        "Sort Order": "Maru Gothic",
+        "PAS Legacy Id": "1479858",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46079",
+        "Family Url Key": "iwata/maru-gothic",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF丸ゴシックPro" },
+          { "lang": "en", "content": "Iwata Maru Gothic Pro" }
+        ],
+        "Unique Name": "maru-gothic",
+        "Active": "Yes",
+        "Debut Date": "09/04/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "書き文字のような柔らかみのある丸ゴシック体です、字面が大きくラインが揃うデザインです、あたたかさや優しさ、親しみやすさを表現しやすい書体です。"
+          },
+          {
+            "lang": "en",
+            "content": "書き文字のような柔らかみのある丸ゴシック体です。字面が大きくラインが揃うデザインです。あたたかさや優しさ、親しみやすさを表現しやすい書体です。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": "1990",
+        "Default Style ID": "215836",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Got It", "Myfontsjpn"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "IWATA" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "276064_9b369dba9628880ce563f9d60f6f609f.png",
+            "Id": "123456157831",
+            "Image Priority": "1",
+            "PK1": "46079",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/276064_9b369dba9628880ce563f9d60f6f609f.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "276065_530511b45bd2f54573c39ce80fef11fd.png",
+            "Id": "123456157834",
+            "Image Priority": "2",
+            "PK1": "46079",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/276065_530511b45bd2f54573c39ce80fef11fd.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "276066_03e00e2583afb8aa5c4a116f2c63c08f.png",
+            "Id": "123456157836",
+            "Image Priority": "3",
+            "PK1": "46079",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/276066_03e00e2583afb8aa5c4a116f2c63c08f.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212142",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAMARUG518000053000000000000000004000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックPro L" },
+              { "lang": "en", "content": "Iwata Maru Gothic Pro Light" }
+            ],
+            "Render MD5": "3dea74f66cccf845f5e2e06e861c1b49",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "215832",
+            "Style Url Key": "iwata/maru-gothic/light",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Light",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "3dea74f66cccf845f5e2e06e861c1b49",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212143"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212148",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAMARUG518000053000000000000000018000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックPro D" },
+              { "lang": "en", "content": "Iwata Maru Gothic Pro Demibold" }
+            ],
+            "Render MD5": "1d94269b0cc79fe918260409fb7fd34a",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "215834",
+            "Style Url Key": "iwata/maru-gothic/demibold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "1d94269b0cc79fe918260409fb7fd34a",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212149"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212145",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAMARUG518000053000000000000000014000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックPro M" },
+              { "lang": "en", "content": "Iwata Maru Gothic Pro Medium" }
+            ],
+            "Render MD5": "ca7a4df5e893ade3fb7a1ea8d4313f3a",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "215836",
+            "Style Url Key": "iwata/maru-gothic/medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "ca7a4df5e893ade3fb7a1ea8d4313f3a",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212146"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212151",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAMARUG518000053000000000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックPro B" },
+              { "lang": "en", "content": "Iwata Maru Gothic Pro Bold" }
+            ],
+            "Render MD5": "b1db11fa1bbd6b42dcb77aaba4ce98e6",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "004",
+            "Style ID": "215838",
+            "Style Url Key": "iwata/maru-gothic/bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "b1db11fa1bbd6b42dcb77aaba4ce98e6",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212152"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "1212145",
+            "Style ID": "215836",
+            "Style Url Key": "iwata/maru-gothic/medium",
+            "Unique Name": "medium",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックPro M" },
+              { "lang": "en", "content": "Iwata Maru Gothic Pro Medium" }
+            ],
+            "Render MD5": "ca7a4df5e893ade3fb7a1ea8d4313f3a",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Medium",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288770",
+                "File MD5": "ca7a4df5e893ade3fb7a1ea8d4313f3a",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000IWATAKYOKA500000053000000000000000004000000000",
+        "Sort Order": "Iwata Kyokasyo Std",
+        "PAS Legacy Id": "1479857",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46254",
+        "Family Url Key": "iwata/kyokasyo-std",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF教科書Std" },
+          { "lang": "en", "content": "Iwata Kyokasyo Std" }
+        ],
+        "Unique Name": "kyokasyo-std",
+        "Active": "Yes",
+        "Debut Date": "10/23/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "児童教育のために、トメネ、ハライ、筆順や画数を明確にした書体です。\r\n 教育用書籍だけでなく、様々な書籍にもご使用いただけます。"
+          },
+          {
+            "lang": "en",
+            "content": "児童教育のためにトメ、ハネ、ハライ、筆順や画数を明確にした書体です。\r\n 教育用書籍だけでなく、様々な書籍にもご使用いただけます。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "215903",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Iwata", "Myfontsjpn"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "IWATA" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278559_58abcdd81497767f7e8e9cbbb6fa6922.png",
+            "Id": "123456160052",
+            "Image Priority": "2",
+            "PK1": "46254",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278559_58abcdd81497767f7e8e9cbbb6fa6922.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278560_acaf8364b28a26a5bc42589fd7e0ab21.png",
+            "Id": "123456160057",
+            "Image Priority": "3",
+            "PK1": "46254",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278560_acaf8364b28a26a5bc42589fd7e0ab21.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278561_0664ada300a673c7cb28aa4f0bb48f50.png",
+            "Id": "123456160063",
+            "Image Priority": "4",
+            "PK1": "46254",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278561_0664ada300a673c7cb28aa4f0bb48f50.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212155",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKYOKA500000053000000000000000004000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Std L" },
+              { "lang": "en", "content": "Iwata Kyokasyo Std Light" }
+            ],
+            "Render MD5": "e1496e8dc7af25cfade9d1ed49a06f86",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "215903",
+            "Style Url Key": "iwata/kyokasyo-std/std-light",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Light",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "e1496e8dc7af25cfade9d1ed49a06f86",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212641"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212158",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKYOKA500000053000000000000000018000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Std D" },
+              { "lang": "en", "content": "Iwata Kyokasyo Std Demibold" }
+            ],
+            "Render MD5": "4d51b4336fc66b911d760f60fa35be6b",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "215906",
+            "Style Url Key": "iwata/kyokasyo-std/std-demibold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "4d51b4336fc66b911d760f60fa35be6b",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212644"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212164",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKYOKA500000053000000000000000024000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Std E" },
+              { "lang": "en", "content": "Iwata Kyokasyo Std Extrabold" }
+            ],
+            "Render MD5": "59ee3edf3e4b5967156cdcbd3dba2539",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "004",
+            "Style ID": "215909",
+            "Style Url Key": "iwata/kyokasyo-std/std-extrabold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Extra Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "59ee3edf3e4b5967156cdcbd3dba2539",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212650"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212161",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKYOKA500000053000000000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Std B" },
+              { "lang": "en", "content": "Iwata Kyokasyo Std Bold" }
+            ],
+            "Render MD5": "985e08c90ab65b0807dd384f942d3ec6",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "215913",
+            "Style Url Key": "iwata/kyokasyo-std/std-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "985e08c90ab65b0807dd384f942d3ec6",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212647"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "1212155",
+            "Style ID": "215903",
+            "Style Url Key": "iwata/kyokasyo-std/std-light",
+            "Unique Name": "std-light",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Std L" },
+              { "lang": "en", "content": "Iwata Kyokasyo Std Light" }
+            ],
+            "Render MD5": "e1496e8dc7af25cfade9d1ed49a06f86",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Light",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288851",
+                "File MD5": "e1496e8dc7af25cfade9d1ed49a06f86",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": " ",
+        "Sort Order": "Iwata Kyokasyo Pro",
+        "PAS Legacy Id": "910046260",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46260",
+        "Family Url Key": "iwata/kyokasyo-pro",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF教科書Pro" },
+          { "lang": "en", "content": "Iwata Kyokasyo Pro" }
+        ],
+        "Unique Name": "kyokasyo-pro",
+        "Active": "Yes",
+        "Debut Date": "10/23/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "児童教育のために、トメネ、ハライ、筆順や画数を明確にした書体です。\r\n 教育用書籍だけでなく、様々な書籍にもご使用いただけます。"
+          },
+          {
+            "lang": "en",
+            "content": "児童教育のためにトメ、ハネ、ハライ、筆順や画数を明確にした書体です。\r\n 教育用書籍だけでなく、様々な書籍にもご使用いただけます。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "215918",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Myfontsjpn"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "IWATA" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278555_7bfc642873d879fd90249151fa18a1d9.png",
+            "Id": "123456160037",
+            "Image Priority": "2",
+            "PK1": "46260",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278555_7bfc642873d879fd90249151fa18a1d9.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278556_14a2342d9f5510cb4a8736da82e58da8.png",
+            "Id": "123456160042",
+            "Image Priority": "3",
+            "PK1": "46260",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278556_14a2342d9f5510cb4a8736da82e58da8.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278557_3ca400f4aacb33a0acf45e40a58d3e10.png",
+            "Id": "123456160047",
+            "Image Priority": "4",
+            "PK1": "46260",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278557_3ca400f4aacb33a0acf45e40a58d3e10.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215915",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA KYOK444004000000000000000000000000000004",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Pro E" },
+              { "lang": "en", "content": "Iwata Kyokasyo Pro Extrabold" }
+            ],
+            "Render MD5": "c8dfd20262664c062711bb2ef3d19a33",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "004",
+            "Style ID": "215915",
+            "Style Url Key": "iwata/kyokasyo-pro/pro-extrabold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Extra Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "c8dfd20262664c062711bb2ef3d19a33",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212165"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215918",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA KYOK444001000000000000000000000000000001",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Pro L" },
+              { "lang": "en", "content": "Iwata Kyokasyo Pro Light" }
+            ],
+            "Render MD5": "110a7ea071e26a222dba0cc18c548cca",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "215918",
+            "Style Url Key": "iwata/kyokasyo-pro/pro-light",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Light",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "110a7ea071e26a222dba0cc18c548cca",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212156"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215921",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA KYOK444003000000000000000000000000000003",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Pro B" },
+              { "lang": "en", "content": "Iwata Kyokasyo Pro Bold" }
+            ],
+            "Render MD5": "87ed45545cb80231eb066334ac5beb25",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "215921",
+            "Style Url Key": "iwata/kyokasyo-pro/pro-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "87ed45545cb80231eb066334ac5beb25",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212162"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215924",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA KYOK444002000000000000000000000000000002",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Pro D" },
+              { "lang": "en", "content": "Iwata Kyokasyo Pro Demibold" }
+            ],
+            "Render MD5": "ebd4a92c1d581f2775d279b8907d8043",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "215924",
+            "Style Url Key": "iwata/kyokasyo-pro/pro-demibold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "ebd4a92c1d581f2775d279b8907d8043",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212159"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "920215918",
+            "Style ID": "215918",
+            "Style Url Key": "iwata/kyokasyo-pro/pro-light",
+            "Unique Name": "pro-light",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF教科書Pro L" },
+              { "lang": "en", "content": "Iwata Kyokasyo Pro Light" }
+            ],
+            "Render MD5": "110a7ea071e26a222dba0cc18c548cca",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Light",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288876",
+                "File MD5": "110a7ea071e26a222dba0cc18c548cca",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": " ",
+        "Sort Order": "Iwata Gyousho Std",
+        "PAS Legacy Id": "910046266",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46266",
+        "Family Url Key": "iwata/gyousho-std",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF行書Std" },
+          { "lang": "en", "content": "Iwata Gyousho Std" }
+        ],
+        "Unique Name": "gyousho-std",
+        "Active": "Yes",
+        "Debut Date": "10/19/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "楷書と草書の中間的な筆法の書体です。\r\n 字体を崩しすぎず、読みやすくなるようデザインしています。"
+          },
+          {
+            "lang": "en",
+            "content": "楷書と草書の中間的な筆法の書体です。\r\n 字体を崩しすぎず、読みやすくなるようデザインしています。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "215930",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Myfontsjpn"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [
+              { "lang": "en", "content": "IWATA" },
+              { "lang": "ja", "content": "Test JA sachin" }
+            ],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278357_00f0ad64c36c127a9b0827e967bfd93f.png",
+            "Id": "123456159532",
+            "Image Priority": "2",
+            "PK1": "46266",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278357_00f0ad64c36c127a9b0827e967bfd93f.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278358_6e4e1a8e133cc4d3d4aecba46d568dd1.png",
+            "Id": "123456159537",
+            "Image Priority": "3",
+            "PK1": "46266",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278358_6e4e1a8e133cc4d3d4aecba46d568dd1.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278359_d60f4a749104c79fc0cc28446e9ba7e6.png",
+            "Id": "123456159542",
+            "Image Priority": "4",
+            "PK1": "46266",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278359_d60f4a749104c79fc0cc28446e9ba7e6.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212178",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAGYOUS500000053000000000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Std B" },
+              { "lang": "en", "content": "Iwata Gyousho Std Bold" }
+            ],
+            "Render MD5": "2c973c06d7b4a6929b1797391a657d89",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "215927",
+            "Style Url Key": "iwata/gyousho-std/std-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "2c973c06d7b4a6929b1797391a657d89",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212659"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212175",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAGYOUS500000053000000000000000014000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Std M" },
+              { "lang": "en", "content": "Iwata Gyousho Std Medium" }
+            ],
+            "Render MD5": "f8f15236e571ee16a084a330e6e20aef",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "215930",
+            "Style Url Key": "iwata/gyousho-std/std-medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "f8f15236e571ee16a084a330e6e20aef",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212656"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "1212175",
+            "Style ID": "215930",
+            "Style Url Key": "iwata/gyousho-std/std-medium",
+            "Unique Name": "std-medium",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Std M" },
+              { "lang": "en", "content": "Iwata Gyousho Std Medium" }
+            ],
+            "Render MD5": "f8f15236e571ee16a084a330e6e20aef",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Medium",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288896",
+                "File MD5": "f8f15236e571ee16a084a330e6e20aef",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000IWATAGYOUS500000053000000000000000014000000000",
+        "Sort Order": "Iwata Gyousho Pro",
+        "PAS Legacy Id": "910046271",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [
+          { "lang": "en", "content": "IWATA" },
+          { "lang": "ja", "content": "Sachin Koirala" }
+        ],
+        "Family ID": "46271",
+        "Family Url Key": "iwata/gyousho-pro",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF行書Pro" },
+          { "lang": "en", "content": "Iwata Gyousho Pro" }
+        ],
+        "Unique Name": "gyousho-pro",
+        "Active": "Yes",
+        "Debut Date": "10/19/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "楷書と草書の中間的な筆法の書体です。\r\n 字体を崩しすぎず、読みやすくなるようデザインしています。"
+          },
+          {
+            "lang": "en",
+            "content": "楷書と草書の中間的な筆法の書体です。\r\n 字体を崩しすぎず、読みやすくなるようデザインしています。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "215936",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Myfontsjpn", "Iwata"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278361_f966dbff7a02797405a72fe0e41ee9df.png",
+            "Id": "123456159547",
+            "Image Priority": "2",
+            "PK1": "46271",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278361_f966dbff7a02797405a72fe0e41ee9df.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278362_a3e53c12c5a2756c3d25987d0da801cf.png",
+            "Id": "123456159552",
+            "Image Priority": "3",
+            "PK1": "46271",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278362_a3e53c12c5a2756c3d25987d0da801cf.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278363_cf994ce05855437cff97f5ff7d4ff79e.png",
+            "Id": "123456159560",
+            "Image Priority": "4",
+            "PK1": "46271",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278363_cf994ce05855437cff97f5ff7d4ff79e.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215933",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA GYOU444002000000000000000000000000000002",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Pro B" },
+              { "lang": "en", "content": "Iwata Gyousho Pro Bold" }
+            ],
+            "Render MD5": "d6d39b1cb4add8ae624230a4d1e9bf83",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "215933",
+            "Style Url Key": "iwata/gyousho-pro/pro-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "d6d39b1cb4add8ae624230a4d1e9bf83",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212179"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920215936",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA GYOU444001000000000000000000000000000001",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Pro M" },
+              { "lang": "en", "content": "Iwata Gyousho Pro Medium" }
+            ],
+            "Render MD5": "6684be4a8c09f763cea461d0a4305ef3",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "215936",
+            "Style Url Key": "iwata/gyousho-pro/pro-medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "6684be4a8c09f763cea461d0a4305ef3",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212176"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "920215936",
+            "Style ID": "215936",
+            "Style Url Key": "iwata/gyousho-pro/pro-medium",
+            "Unique Name": "pro-medium",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF行書Pro M" },
+              { "lang": "en", "content": "Iwata Gyousho Pro Medium" }
+            ],
+            "Render MD5": "6684be4a8c09f763cea461d0a4305ef3",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Medium",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288906",
+                "File MD5": "6684be4a8c09f763cea461d0a4305ef3",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": " ",
+        "Sort Order": "Iwata Maru Gothic Std",
+        "PAS Legacy Id": "1212140",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [
+          { "lang": "en", "content": "IWATA" },
+          { "lang": "ja", "content": "Sachin koirala" }
+        ],
+        "Family ID": "46320",
+        "Family Url Key": "iwata/maru-gothic-std",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF丸ゴシックStd" },
+          { "lang": "en", "content": "Iwata Maru Gothic Std" }
+        ],
+        "Unique Name": "maru-gothic-std",
+        "Active": "Yes",
+        "Debut Date": "10/20/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "書き文字のような柔らかみのある丸ゴシック体です、字面が大きくラインが揃うデザインです、あたたかさや優しさ、親しみやすさを表現しやすい書体です。"
+          },
+          {
+            "lang": "en",
+            "content": "書き文字のような柔らかみのある丸ゴシック体です。字面が大きくラインが揃うデザインです。あたたかさや優しさ、親しみやすさを表現しやすい書体です。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "216063",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Myfontsjpn", "Japanese"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278479_97cc80eb73cfb1414a0485a93c0c417f.png",
+            "Id": "123456159863",
+            "Image Priority": "2",
+            "PK1": "46320",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278479_97cc80eb73cfb1414a0485a93c0c417f.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278480_66f398e8a8f23c35fa93f5616795cb7c.png",
+            "Id": "123456159868",
+            "Image Priority": "3",
+            "PK1": "46320",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278480_66f398e8a8f23c35fa93f5616795cb7c.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278481_00b446141e8091dc09e82c81cb34150c.png",
+            "Id": "123456159873",
+            "Image Priority": "4",
+            "PK1": "46320",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278481_00b446141e8091dc09e82c81cb34150c.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920216059",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA MARU444004000000000000000000000000000004",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックStd B" },
+              { "lang": "en", "content": "Iwata Maru Gothic Std Bold" }
+            ],
+            "Render MD5": "bb203aaee6084f15dcb9487152ad8eca",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "004",
+            "Style ID": "216059",
+            "Style Url Key": "iwata/maru-gothic-std/std-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "bb203aaee6084f15dcb9487152ad8eca",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212638"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920216063",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA MARU444001000000000000000000000000000001",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックStd L" },
+              { "lang": "en", "content": "Iwata Maru Gothic Std Light" }
+            ],
+            "Render MD5": "fec18a3386d4a2ac9a5942dc09d99277",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "216063",
+            "Style Url Key": "iwata/maru-gothic-std/std-light",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Light",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "fec18a3386d4a2ac9a5942dc09d99277",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212629"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920216069",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA MARU444003000000000000000000000000000003",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックStd D" },
+              { "lang": "en", "content": "Iwata Maru Gothic Std Demibold" }
+            ],
+            "Render MD5": "cce7672ca58431f124d8c2f2e5a18eba",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "003",
+            "Style ID": "216069",
+            "Style Url Key": "iwata/maru-gothic-std/std-demibold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "cce7672ca58431f124d8c2f2e5a18eba",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212635"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920216073",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA MARU444002000000000000000000000000000002",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックStd M" },
+              { "lang": "en", "content": "Iwata Maru Gothic Std Medium" }
+            ],
+            "Render MD5": "fe407c91efcc482340be0fc2bb161fc9",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "216073",
+            "Style Url Key": "iwata/maru-gothic-std/std-medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "fe407c91efcc482340be0fc2bb161fc9",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212632"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "920216063",
+            "Style ID": "216063",
+            "Style Url Key": "iwata/maru-gothic-std/std-light",
+            "Unique Name": "std-light",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF丸ゴシックStd L" },
+              { "lang": "en", "content": "Iwata Maru Gothic Std Light" }
+            ],
+            "Render MD5": "fec18a3386d4a2ac9a5942dc09d99277",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Light",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "289027",
+                "File MD5": "fec18a3386d4a2ac9a5942dc09d99277",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "01/04/2016",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000IWATAKAISH500000053000000000000000014000000000",
+        "Sort Order": "Iwata Kaisho Pro",
+        "PAS Legacy Id": "1479875",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46338",
+        "Family Url Key": "iwata/kaisho-pro",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF楷書Pro" },
+          { "lang": "en", "content": "Iwata Kaisho Pro" }
+        ],
+        "Unique Name": "kaisho-pro",
+        "Active": "Yes",
+        "Debut Date": "10/23/2018",
+        "Description": [],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "216120",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Myfontsjpn", "Japanese", "Iwata"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278606_d5e66dbba403e958a05e9779e4afbe1b.png",
+            "Id": "123456160218",
+            "Image Priority": "2",
+            "PK1": "46338",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278606_d5e66dbba403e958a05e9779e4afbe1b.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278607_55352fa09a55c343e006e12727e3e59b.png",
+            "Id": "123456160223",
+            "Image Priority": "3",
+            "PK1": "46338",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278607_55352fa09a55c343e006e12727e3e59b.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278608_d5ed1df2cc24d6c5f966e7bdc991517e.png",
+            "Id": "123456160229",
+            "Image Priority": "4",
+            "PK1": "46338",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278608_d5ed1df2cc24d6c5f966e7bdc991517e.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212168",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKAISH500000053000000000000000014000000000",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF楷書Pro M" },
+              { "lang": "en", "content": "Iwata Kaisho Pro Medium" }
+            ],
+            "Render MD5": "779dae4cbbf894e028fa5dd39f55ba23",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "216120",
+            "Style Url Key": "iwata/kaisho-pro/medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "779dae4cbbf894e028fa5dd39f55ba23",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212169"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "1212171",
+            "Render Size": " ",
+            "Sort Key": "5000IWATAKAISH500000053000000000000000018000000000",
+            "Name": [{ "lang": "en", "content": "Iwata Kaisho Pro Demibold" }],
+            "Render MD5": "7155a6328ad93f3ec96371db1861ec3f",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "002",
+            "Style ID": "216125",
+            "Style Url Key": "iwata/kaisho-pro/demibold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Normal",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "7155a6328ad93f3ec96371db1861ec3f",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212172"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "1212168",
+            "Style ID": "216120",
+            "Style Url Key": "iwata/kaisho-pro/medium",
+            "Unique Name": "medium",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF楷書Pro M" },
+              { "lang": "en", "content": "Iwata Kaisho Pro Medium" }
+            ],
+            "Render MD5": "779dae4cbbf894e028fa5dd39f55ba23",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Medium",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288141",
+                "File MD5": "779dae4cbbf894e028fa5dd39f55ba23",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "afrc",
+                  "dlig",
+                  "dnom",
+                  "expt",
+                  "frac",
+                  "fwid",
+                  "halt",
+                  "hkna",
+                  "hwid",
+                  "ital",
+                  "jp78",
+                  "jp83",
+                  "kern",
+                  "liga",
+                  "nalt",
+                  "numr",
+                  "palt",
+                  "pwid",
+                  "qwid",
+                  "ruby",
+                  "sinf",
+                  "sups",
+                  "trad",
+                  "twid",
+                  "vert",
+                  "vhal",
+                  "vkna",
+                  "vkrn",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "11/16/2020",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": " ",
+        "Sort Order": "Iwata Kaisho Std",
+        "PAS Legacy Id": "1212166",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "46373",
+        "Family Url Key": "iwata/kaisho-std",
+        "Name": [
+          { "lang": "ja", "content": "I-OTF楷書Std" },
+          { "lang": "en", "content": "Iwata Kaisho Std" }
+        ],
+        "Unique Name": "kaisho-std",
+        "Active": "Yes",
+        "Debut Date": "10/25/2018",
+        "Description": [
+          {
+            "lang": "ja",
+            "content": "基本書の生かし方、美しい格調高いデザインの筆跡系書体ですが、伝統的な正／中／特太楷書に加えた「力強さ」「伸びやかさ」「整然とした読みやすさ」を意識した「新楷書」「新楷書かなa」があります。"
+          },
+          {
+            "lang": "en",
+            "content": "書の基本を生かし、美しく格調高いデザインの筆書系書体です。伝統的な正／中太／特太楷書体に加え「力強さ」「伸びやかさ」「整然とした読みやすさ」を意識した「新楷書」「新楷書かなA」があります。"
+          }
+        ],
+        "Alternate Description": [],
+        "Release Year": " ",
+        "Default Style ID": "216221",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": ["Japanese", "Myfontsjpn"] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Poster_Image_Link": [
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278827_c28d89aaea1fc5f01e9ad3f27efa767f.png",
+            "Id": "123456160810",
+            "Image Priority": "2",
+            "PK1": "46373",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278827_c28d89aaea1fc5f01e9ad3f27efa767f.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278828_421c0837a62fbe93ab1eb3bec1678f52.png",
+            "Id": "123456160815",
+            "Image Priority": "3",
+            "PK1": "46373",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278828_421c0837a62fbe93ab1eb3bec1678f52.png"
+              }
+            ]
+          },
+          {
+            "repo": "DAMLink",
+            "DAMStatus": "Active",
+            "FileName": "278829_41a83bc4e40def83ae784b2807c2b52f.png",
+            "Id": "123456160820",
+            "Image Priority": "4",
+            "PK1": "46373",
+            "Poster_Image": [
+              {
+                "Public URL": "https://monotype-dam-prod-public.s3.amazonaws.com/DAMRoot/Original/10000/278829_41a83bc4e40def83ae784b2807c2b52f.png"
+              }
+            ]
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "920216221",
+            "Render Size": " ",
+            "Sort Key": "5000IWATA KAIS444001000000000000000000000000000001",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF楷書Std M" },
+              { "lang": "en", "content": "Iwata Kaisho Std Medium" }
+            ],
+            "Render MD5": "658e2a5f02a879165ddffec4dac71d1e",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "001",
+            "Style ID": "216221",
+            "Style Url Key": "iwata/kaisho-std/std-medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "658e2a5f02a879165ddffec4dac71d1e",
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "PAS Variation ID": "1212653"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "920216221",
+            "Style ID": "216221",
+            "Style Url Key": "iwata/kaisho-std/std-medium",
+            "Unique Name": "std-medium",
+            "Name": [
+              { "lang": "ja", "content": "I-OTF楷書Std M" },
+              { "lang": "en", "content": "Iwata Kaisho Std Medium" }
+            ],
+            "Render MD5": "658e2a5f02a879165ddffec4dac71d1e",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "OTF 1.000;PS 1;Core 1.0.32;makeotf.lib1.4.3831",
+                "Slope": "Normal",
+                "Weight": "Medium",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "288236",
+                "File MD5": "658e2a5f02a879165ddffec4dac71d1e",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "liga",
+                  "palt",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vpal",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "05/08/2014",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": " ",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      },
+      {
+        "repo": "Font_Family_Production",
+        "Sort Key": "5000FAKUMARUGO500000053000000000000000012000000000",
+        "Sort Order": " ",
+        "PAS Legacy Id": "7180650",
+        "Trademark Text ID": " ",
+        "Vendor ID": "3495",
+        "Vendor Name": [{ "lang": "en", "content": "IWATA" }],
+        "Family ID": "81704",
+        "Family Url Key": "iwata/iwata-fuku-marugo",
+        "Name": [
+          { "lang": "ja", "content": "イワタ福まるご" },
+          { "lang": "en", "content": "Iwata Fuku Marugo" }
+        ],
+        "Unique Name": "iwata-fuku-marugo",
+        "Active": "Yes",
+        "Debut Date": " ",
+        "Description": [],
+        "Alternate Description": [
+          {
+            "lang": "ja",
+            "content": "有機的な輪郭が魅惑的にブレンドされたこの新しい丸ゴシック体は、ふっくらとした丸みを帯びたフォルムを斬新なスタイルで打ち出し、大きく大胆な見出しから小さな文字の長文まで、あらゆる用途に対応する豊富なウェイトバリエーションを取り揃えている。"
+          },
+          {
+            "lang": "en",
+            "content": "A captivating blend of organic contours, this new Maru Gothic typeface strikes plump, rounded forms in an innovative style and comes in a wide array of weight variations for everything from big, bold headings to long sentences of small characters."
+          }
+        ],
+        "Release Year": "2020",
+        "Default Style ID": "333740",
+        "Is Deleted": "No",
+        "Original Foundry ID": " ",
+        "Tags": [
+          { "lang": "ja", "content": [] },
+          { "lang": "en", "content": [] }
+        ],
+        "Trademark Name": " ",
+        "Trademark Sign": " ",
+        "Design_Foundry": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Vendor": [
+          {
+            "Foundry Name": [{ "lang": "en", "content": "IWATA" }],
+            "Master Foundry ID": "3495",
+            "Unique Name": "iwata"
+          }
+        ],
+        "Font_Style": [
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "7180652",
+            "Render Size": " ",
+            "Sort Key": "5000FAKUMARUGO500000053000000000000000008000000000",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN L" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Light" }
+            ],
+            "Render MD5": "950e3b189be4350b52b305c28e029344",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "732",
+            "Style ID": "333739",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-light",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "300",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Light",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "950e3b189be4350b52b305c28e029344",
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "PAS Variation ID": "7180653"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "7180654",
+            "Render Size": " ",
+            "Sort Key": "5000FAKUMARUGO500000053000000000000000012000000000",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN R" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Regular" }
+            ],
+            "Render MD5": "69861bdf76b2b9639f9da213885f93c1",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "733",
+            "Style ID": "333740",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-regular",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "400",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Regular",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "69861bdf76b2b9639f9da213885f93c1",
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "PAS Variation ID": "7180655"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "7180656",
+            "Render Size": " ",
+            "Sort Key": "5000FAKUMARUGO500000053000000000000000014000000000",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN M" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Medium" }
+            ],
+            "Render MD5": "37041784aab78f77e84d63f25672e1a6",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "734",
+            "Style ID": "333741",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-medium",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "500",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Medium",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "37041784aab78f77e84d63f25672e1a6",
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "PAS Variation ID": "7180657"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "7180658",
+            "Render Size": " ",
+            "Sort Key": "5000FAKUMARUGO500000053000000000000000020000000000",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN B" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Bold" }
+            ],
+            "Render MD5": "53470169b0dec5e0631c76dbda207456",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "735",
+            "Style ID": "333742",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-bold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "700",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "53470169b0dec5e0631c76dbda207456",
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "PAS Variation ID": "7180659"
+              }
+            ]
+          },
+          {
+            "repo": "Font_Style_Production",
+            "Description": [],
+            "Is Deleted": "No",
+            "PAS Product ID": "7180660",
+            "Render Size": " ",
+            "Sort Key": "5000FAKUMARUGO500000053000000000000000024000000000",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN E" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Extrabold" }
+            ],
+            "Render MD5": "ad0481f877b582b68a081219179608db",
+            "Render String": "好きなことばのカタチを造る",
+            "Sort Order": "736",
+            "Style ID": "333743",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-extrabold",
+            "Font_Style_to_Font_File_Production": [
+              {
+                "repo": "Font_File_Production",
+                "Weight Class": "800",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "Active": "Yes",
+                "Weight": "Extra Bold",
+                "Slope": "Normal",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ],
+                "File MD5": "ad0481f877b582b68a081219179608db",
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "PAS Variation ID": "7180661"
+              }
+            ]
+          }
+        ],
+        "Font_Style_Default": [
+          {
+            "PAS Product ID": "7180654",
+            "Style ID": "333740",
+            "Style Url Key": "iwata/iwata-fuku-marugo/stdn-regular",
+            "Unique Name": "stdn-regular",
+            "Name": [
+              { "lang": "ja", "content": "イワタ福まるごStdN R" },
+              { "lang": "en", "content": "Iwata Fuku Marugo StdN Regular" }
+            ],
+            "Render MD5": "69861bdf76b2b9639f9da213885f93c1",
+            "Render String": "好きなことばのカタチを造る",
+            "Font_File": [
+              {
+                "repo": "Font_File_Production",
+                "Design Variation Axes": [],
+                "Design Variation Instances": [],
+                "NID5 Version Text": "Version 2.000;hotconv 1.0.112;makeotfexe 2.5.65598",
+                "Slope": "Normal",
+                "Weight": "Regular",
+                "Weight Class": "400",
+                "Active": "Yes",
+                "File ID": "455059",
+                "File MD5": "69861bdf76b2b9639f9da213885f93c1",
+                "Format": "OT-CFF",
+                "OpentType Features": [
+                  "aalt",
+                  "dlig",
+                  "expt",
+                  "fwid",
+                  "halt",
+                  "hwid",
+                  "jp78",
+                  "jp90",
+                  "kern",
+                  "liga",
+                  "nlck",
+                  "pwid",
+                  "trad",
+                  "vert",
+                  "vhal",
+                  "vkrn",
+                  "vrt2",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        ],
+        "ChannelAvailability": [
+          {
+            "repo": "SKU_Release_Production",
+            "MyFonts Release Date": "07/25/2019",
+            "MTF Derelease Date": " ",
+            "MTF Release Date": " ",
+            "MyFonts Derelease Date": "02/20/2025",
+            "44": "0",
+            "49": "0",
+            "46": "0",
+            "5": " ",
+            "17": "0"
+          }
+        ]
+      }
+    ]
+  }
+}
