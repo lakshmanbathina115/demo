@@ -24,11 +24,30 @@ for family in data["Root"]["Font_Family"]:
         # Get DAMStatus
         dam_status = poster.get("DAMStatus")
 
-        # Get Public URL
+        # Get Poster_Image object (first one)
         public_url = None
+        width = 1440  # default
+        height = 720  # default
         poster_images = poster.get("Poster_Image")
         if poster_images and isinstance(poster_images, list):
-            public_url = poster_images[0].get("Public URL")
+            poster_img = poster_images[0]
+            public_url = poster_img.get("Public URL")
+
+            # Check for width and height
+            width_val = poster_img.get("Width")
+            height_val = poster_img.get("Height")
+
+            if width_val is not None:
+                try:
+                    width = int(width_val)
+                except ValueError:
+                    width = 1440
+
+            if height_val is not None:
+                try:
+                    height = int(height_val)
+                except ValueError:
+                    height = 720
 
         # Derive IsActive and IsPublic
         is_active = 'Y' if public_url else 'N'
@@ -58,6 +77,8 @@ for family in data["Root"]["Font_Family"]:
             "IsPublic_DAMMaster_to_DAMLink": is_public,
             "FilePath_DAMMaster_to_DAMLink": file_path,
             "Image Priority_Font_Family_to_Digital_Assets_Production": image_priority,
+            "Width_DAMMaster_to_DAMLink": width,
+            "Height_DAMMaster_to_DAMLink": height,
         }
 
         records.append(record)
@@ -77,6 +98,8 @@ df = df[
         "IsPublic_DAMMaster_to_DAMLink",
         "FilePath_DAMMaster_to_DAMLink",
         "Image Priority_Font_Family_to_Digital_Assets_Production",
+        "Width_DAMMaster_to_DAMLink",
+        "Height_DAMMaster_to_DAMLink",
     ]
 ]
 
